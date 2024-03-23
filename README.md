@@ -1,20 +1,6 @@
 ## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
 
-This is inspired by titus-awesome.
-
-## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
-### Original design by PapyElGringo, I modified it removing sidebar and condensing the bars to a single top panel. 
-
-Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
-
-An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) following the [Material Design guidelines](https://material.io) with a performant opiniated mouse/keyboard workflow to increase daily productivity and comfort.
-
-[![](./theme/titus-theme/demo.png)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
-*[Click to view in high quality](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)*
-
-| Fullscreen   | Rofi Combo Panel | Exit screen   |
-|:-------------:|:-------------:|:-------------:|
-|![](./theme/titus-theme/fullscreen.png)|![](./theme/titus-theme/panel.png)|![](https://i.imgur.com/rcKOLYQ.png)|
+This is inspired by [titus-awesome](https://github.com/ChrisTitusTech/titus-awesome).
 
 ## Installation
 
@@ -49,7 +35,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 
 Debian-Based Installs
 ```
-git clone --branch debian https://github.com/ChrisTitusTech/titus-awesome ~/.config/awesome
+git clone debian https://MahendraVadnere/awesome ~/.config/awesome
 ```
 
 ### 3) Set the themes
