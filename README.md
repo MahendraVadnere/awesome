@@ -35,7 +35,7 @@ wget -qO- https://git.io/papirus-icon-theme-install | sh
 
 Debian-Based Installs
 ```
-git clone https://MahendraVadnere/awesome ~/.config/awesome
+git clone https://github.com/MahendraVadnere/awesome ~/.config/awesome
 ```
 
 ### 3) Set the themes
